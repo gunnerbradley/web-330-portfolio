@@ -87,6 +87,7 @@ nav .fa-github{
     background-color: white;
     border-radius: 0 500px 500px 0;
 }
+
 /* landing */
 .profile-img{
     width: 300px;
@@ -120,8 +121,8 @@ nav .fa-github{
   color:var(--accent-color);
   border: 2.5px solid silver;
 }
-/* Projects */
 
+/* Projects */
 .card-project-link{
     font-size: 25px;
 }
@@ -147,4 +148,9 @@ footer{
   footer{
     font-size: 12px;
     }
+  /* .resume-window{
+    width: 100vw;
+    height: 100vh;
+
+  } */
 }
